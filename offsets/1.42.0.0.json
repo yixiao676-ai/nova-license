@@ -1,21 +1,21 @@
 {
     "schema":  0,
-    "updated":  "2026-11-20 21:48:07",
-    "rev":  1795211288,
+    "updated":  "2026-11-20 21:55:33",
+    "rev":  1795211733,
     "build":  {
                   "patchVersion":  "1.42.0.0",
                   "clientVersion":  "2000948"
               },
     "client":  {
-                   "dwCSGOInput":  "0x2569E30",
-                   "dwEntityList":  "0x270C680",
+                   "dwCSGOInput":  "0x256D560",
+                   "dwEntityList":  "0x270D5B0",
                    "dwGlobalVars":  "0x2223AD0",
-                   "dwLocalPlayerController":  "0x252ED78",
-                   "dwLocalPlayerPawn":  "0x222DE78",
-                   "dwPlantedC4":  "0x24BD9E8",
+                   "dwLocalPlayerController":  "0x252F300",
+                   "dwLocalPlayerPawn":  "0x2557AB8",
+                   "dwPlantedC4":  "0x24BBC00",
                    "dwSensitivity":  "0x2551038",
-                   "dwViewAngles":  "0x25B25C0",
-                   "dwViewMatrix":  "0x255CDD0"
+                   "dwViewAngles":  "0x256DBE8",
+                   "dwViewMatrix":  "0x255D350"
                },
     "fields":  {
                    "m_ArmorValue":  "0x1F00",
@@ -77,7 +77,7 @@
                    "m_vOldOrigin":  "0x14A4",
                    "m_vSmokeColor":  "0x136C",
                    "m_vecAbsVelocity":  "0x3F8",
-                   "m_angEyeAngles":  "0x3630",
+                   "m_angEyeAngles":  "0x90",
                    "m_iShotsFired":  "0x1EE8"
                }
 }
