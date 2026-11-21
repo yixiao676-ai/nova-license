@@ -1,17 +1,17 @@
 {
     "patch":  "1.42.0.0",
-    "rev":  1795303931,
+    "rev":  1795306596,
     "files":  [
                   "offsets.enc",
                   "offsets.enc.sig",
                   "1.42.0.0.enc",
                   "1.42.0.0.enc.sig"
               ],
-    "time":  "2026-11-21 23:32:11",
+    "time":  "2026-11-22 00:16:36",
     "exeVersion":  "1.0.0",
     "minExeVersion":  "1.0.0",
     "prev":  {
                  "patch":  "1.42.0.0",
-                 "rev":  1795303926
+                 "rev":  1795306563
              }
 }
