@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "msg": "",
+  "notice": "",
+  "minVersion": "",
+  "expire": "",
+  "killSwitch": false
+}
