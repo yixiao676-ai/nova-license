@@ -3,6 +3,6 @@
     "msg":  "",
     "notice":  "",
     "minVersion":  "",
-    "expire":  "",
+    "expire":  "2026-12-25",
     "killSwitch":  false
 }
